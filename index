@@ -1,0 +1,176 @@
+<!DOCTYPE html> 
+<html>
+<head>
+        <meta charset="utf-8">
+        <title> 
+            HOME
+        </title>
+
+        <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="TOP">
+            <div class="left">
+            
+                <div class="link">
+                    <a href="about.html">About</a>
+                </div>
+
+                <div class="link">
+                    <a href="image.html">Image</a>
+                </div>
+
+                <div class="link">
+                    <a href="quote.html">Quotes</a>
+                </div>
+                
+            </div>
+            <div class="right">
+
+                <div class="assure">
+                    <div>WE ARE HERE FOR YOU</div>
+                </div>
+                
+
+            </div>
+        </div>
+
+
+        <div class="content">
+                <div class="items">
+
+                        <div class="item">
+                             <div class="img-background" style="background-image:url(imageS/Centuries\ old\ Indian\ Architecture.jpg)">
+  
+                            </div>
+                            <div class="img-text">
+                                <div class="logo">
+                                    <img src="images/logo/77472-gray-werewolf-wolf-bitcoin-logo-png-download-free.png">
+                                </div>
+                                <div class="subtitle">
+                                   <a href="quote.html"> Quotes</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="img-background" style="background-image:url(images/Romanesque\ Architecture.jpg)">
+ 
+                           </div>
+                           <div class="img-text">
+                               <div class="logo">
+                                   <img src="images/logo/kindpng_1622156.png">
+                               </div>
+                               <div class="subtitle">
+                                  <a href="image.html"> pictures</a>
+                               </div>
+                           </div>
+                       </div>
+
+                       <div class="item">
+                         <div class="img-background" style="background-image:url(images/4K_skzga1vUy0QB4mf.jpg)">
+
+                            </div>
+                            <div class="img-text">
+                                 <div class="logo">
+                                    <img src="images/logo/12-blue-football-ball-png-image_400x400.png">
+                                </div>
+
+
+                                <div class="subtitle">
+                                
+                                <a href="https://www.google.com/search?q=football&rlz=1C1ASVC_enIN859IN859&oq=football&aqs=chrome..69i57j0l4j69i60l3.2445j0j4&sourceid=chrome&ie=UTF-8"> football</a>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+
+
+                         <div class="item">
+                            <div class="img-background" style="background-image:url(images/4K_d9gPabwDVZy02Gz.jpg)">
+
+                            </div>
+                            <div class="img-text">
+                                 <div class="logo">
+                                        <img src="images/logo/71766-logo-vector-design-illustration-phoenix-hd-image-free-png.png">
+                                 </div>
+
+
+                                <div class="subtitle">
+                                    <a href="superheroes.html"> SUPERHEROES</a>
+                                </div>
+
+                             </div>
+                         </div>
+
+
+                         <div class="item">
+                            <div class="img-background" style="background-image:url(images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg)">
+                           </div>
+                           <div class="img-text">
+                               <div class="logo">
+                                   <img src="images/logo/html5.png">
+                               </div>
+                               <div class="subtitle">
+                                  <a href="https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00k2H1cIouoKHla5tkmNdyUIywHzA%3A1596993164518&ei=jC4wX_WqH8SE4-EPzImniAY&q=CODING&oq=CODING&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIKCC4QxwEQrwEQJzIECCMQJzIICAAQsQMQkQIyCggAELEDEIMBEEMyCggAELEDEIMBEEMyCggAELEDEIMBEEMyBwgAELEDEEMyCAgAELEDEIMBMggIABCxAxCDAToECAAQRzoLCC4QxwEQrwEQkQI6BQgAEJECOgUIABCxAzoICC4QsQMQgwE6AggAOgQILhBDOgoIABCxAxAUEIcCOgcILhCxAxBDOgQIABBDUOy9BljQyQZgttEGaABwAXgAgAGTAogBvwqSAQUwLjIuNJgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwj1oJ6Sz47rAhVEwjgGHczECWEQ4dUDCAs&uact=5">CODING</a>
+                               </div>
+                           </div>
+                       </div>
+
+
+                       <div class="item">
+                        <div class="img-background" style="background-image:url(images/goku.jpg)">
+                       </div>
+                       <div class="img-text">
+                           <div class="logo">
+                               <img src="images/logo/missile-40394.png">
+                           </div>
+                           <div class="subtitle">
+                              <a href="https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk014ZCxQGMv2YSt7uJI_UW6ZV7kOjg%3A1596993056620&ei=IC4wX_m6JcyU4-EPyLaVkAQ&q=dragon+ball&oq=dragon+ball&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQQxCTAjIHCC4QsQMQQzIFCC4QsQMyBQgAELEDMgUILhCxAzICCC4yAggAMgUILhCxAzIICC4QsQMQgwEyBQguELEDOgQIABBHOgQIIxAnOgcIABAUEIcCOggIABCxAxCDAToECAAQQzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoKCC4QxwEQowIQQzoECC4QQzoECC4QJzoKCAAQsQMQFBCHAjoHCC4QQxCTAjoECAAQCjoECC4QCjoICC4QxwEQrwFQg9oFWLWpBmDQvAZoAnACeAKAAaoCiAGEGpIBBjAuMy4xMpgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwj5yuTezo7rAhVMyjgGHUhbBUIQ4dUDCAs&uact=5"> DRAGON BALL</a>
+                           </div>
+                       </div>
+                   </div>
+
+                </div>
+
+        </div>
+
+
+            <div class="bottom">
+                <div class="BOTTOM-TEXT">
+                <div>
+                    <a href="https://www.google.com/search">HOPE YOU ENJOYED</a>
+                </div>
+                </div>
+            </div>
+            
+
+    </div>
+</body>
+
+<script>
+    const theitems=document.querySelectorAll('.item')
+
+    theitems.forEach(theitem =>{
+        theitem.addEventListener('mouseover', () => {
+            console.log(theitem.childNodes[1].classList);
+            theitem.childNodes[1].classList.add('img-dark');
+        })
+
+        theitem.addEventListener('mouseout', () => {
+            console.log(theitem.childNodes[1].classList);
+            theitem.childNodes[1].classList.remove('img-dark');
+        })
+    })
+
+</script>
+
+
+
+</html>
